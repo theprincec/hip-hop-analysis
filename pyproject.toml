@@ -1,13 +1,12 @@
 [tool.poetry]
-name = "hip-hop-mixtape-analysis"
+name = "hip-hop-analysis"
 version = "0.1.0"
 description = ""
-authors = ["QuinnManor <matthewq1428@gmail.com>"]
+authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
 jupyter = "^1.0.0"
-pandas = "^1.0.4"
 
 [tool.poetry.dev-dependencies]
 
